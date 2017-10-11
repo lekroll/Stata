@@ -3,7 +3,7 @@
 ## Summary
 This repository contains all my public Stata ADO Files.
 
-## Contetns
+## Table of Content
 
 tbd.
 
